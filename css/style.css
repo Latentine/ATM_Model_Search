@@ -1,0 +1,19 @@
+#example {
+	display: block;
+	overflow: auto;
+	width: 100%;
+}
+
+.dataTables_wrapper {
+	width: 100%;
+}
+
+main {
+	min-height: 110vh;
+}
+
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
