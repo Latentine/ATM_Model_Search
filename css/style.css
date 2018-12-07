@@ -17,3 +17,7 @@ tfoot input {
         padding: 3px;
         box-sizing: border-box;
     }
+
+.download-icon {
+    width: 50%;
+}
